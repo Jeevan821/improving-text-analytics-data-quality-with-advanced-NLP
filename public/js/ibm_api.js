@@ -1,4 +1,4 @@
-const API_KEY = "weqJfOljvOGCDtwgVYgFD1bmmorCs4wnJmoMc4uYO39e";
+constAPI_KEY = "weqJfOljvOGCDtwgVYgFD1bmmorCs4wnJmoMc4uYO39e";
 const SCORING_URL = "https://us-south.ml.cloud.ibm.com/ml/v4/deployments/3587c96f-0213-456c-b5df-677b6b239a4b/predictions?version=2021-05-01";
 const TOKEN_URL = "https://iam.cloud.ibm.com/identity/token";
 
